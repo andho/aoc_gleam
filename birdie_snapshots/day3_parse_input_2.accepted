@@ -1,0 +1,20 @@
+---
+version: 1.2.4
+title: day3 parse input 2
+file: ./test/day3_test.gleam
+test_name: parse_input_line2_test
+---
+[
+  Number(792, #(1, 3)),
+  Symbol("+", #(4, 4)),
+  Number(828, #(19, 21)),
+  Symbol("-", #(38, 38)),
+  Number(807, #(39, 41)),
+  Number(6, #(43, 43)),
+  Number(326, #(55, 57)),
+  Number(324, #(62, 64)),
+  Number(722, #(68, 70)),
+  Number(334, #(74, 76)),
+  Symbol("*", #(79, 79)),
+  Symbol("*", #(91, 91)),
+]

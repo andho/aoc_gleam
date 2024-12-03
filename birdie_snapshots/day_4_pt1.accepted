@@ -1,0 +1,7 @@
+---
+version: 1.2.4
+title: Day 4 pt1
+file: ./test/day4_test.gleam
+test_name: day_4_pt1_test
+---
+13

@@ -1,0 +1,7 @@
+---
+version: 1.2.4
+title: day3 part 2
+file: ./test/day3_test.gleam
+test_name: day3_pt2_test
+---
+467835

@@ -1,0 +1,7 @@
+---
+version: 1.2.4
+title: 2024 day 1 pt 2
+file: ./test/y2024_day1.gleam
+test_name: pt2_test
+---
+31
