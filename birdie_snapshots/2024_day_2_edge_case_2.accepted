@@ -1,0 +1,7 @@
+---
+version: 1.2.4
+title: 2024 day 2 edge case 2
+file: ./test/y2024_day2.gleam
+test_name: edge2_case_test
+---
+1

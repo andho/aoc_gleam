@@ -1,0 +1,12 @@
+---
+version: 1.2.4
+title: 2024 day 3 parser 1
+---
+[
+  Mul(2, 4),
+  Dont,
+  Mul(5, 5),
+  Mul(11, 8),
+  Do,
+  Mul(8, 5),
+]

@@ -1,0 +1,7 @@
+---
+version: 1.2.4
+title: 2024 day 3 parse
+file: ./test/y2024_day3.gleam
+test_name: parse_sample_test
+---
+161
